@@ -38,6 +38,8 @@ class _HomeState extends State<Home> {
   //     print("$username");
   //   }
   // }
+
+  //initialising counter
   int counter = 1;
 
   // void getData() async {
